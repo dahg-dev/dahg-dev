@@ -1,7 +1,7 @@
 # Welcome! Daniel Here! 👋
 
-![daniel-hdz-g's Stats](https://github-readme-stats.vercel.app/api?username=daniel-hdz-g&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-![daniel-hdz-g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-hdz-g&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![dahg-dev's Stats](https://github-readme-stats.vercel.app/api?username=dahg-dev&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![dahg-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahg-dev&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 ### 💡 My Main Abilities...
 
